@@ -1,4 +1,4 @@
-# Omitting .txt and .ini
+# Omitting .txt and .ini for security purposes
 *.txt
 *.ini
 
